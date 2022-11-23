@@ -15,4 +15,10 @@ The repository includes 3 branches for each module.
 ## Module 3 (20 minutes) (module-three/optimization)
     - optimization using SOLID principles
 
+    - Single Responsibility Principle (SRP)
+    - Open/Closed Principle (OCP)
+    - Liskov Substitution Principle (LSP)
+    - Interface Segregation Principle (ISP)
+    - Dependency Inversion Principle (DIP)
+
 ## Q&A (15 minutes)
