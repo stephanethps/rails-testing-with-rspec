@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+The project demonstrates basics of rspec rails testing starting from the outside in for an API.
+The repository includes 3 branches for each module.
 
-* Ruby version
+## Introduction (5 minutes)
 
-* System dependencies
+## Module 1 (10 minutes) (module-one/request-specs)
+    - request specs
 
-* Configuration
+## Module 2 (10 minutes) (module-two/model-specs)
+    - model specs
 
-* Database creation
+## Module 3 (20 minutes) (module-three/optimization)
+    - optimization using SOLID principles
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Q&A (15 minutes)
