@@ -2,7 +2,7 @@
 
 # DatabaseCleaner setup
 RSpec.configure do |config|
-  config.before(:suite) do 
+  config.before(:suite) do
     DatabaseCleaner.clean_with(:truncation)
     DatabaseCleaner.strategy = :trsansaction
   end
