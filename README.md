@@ -1,6 +1,5 @@
 # README
 
-
 The project demonstrates basics of rspec rails testing starting from the outside in for an API.
 The repository includes 3 branches for each module.
 
