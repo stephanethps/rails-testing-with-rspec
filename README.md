@@ -8,6 +8,9 @@ The repository includes 3 branches for each module.
    - Ruby (Yukihiro Matsumoto aka Mat) - released in 1995 
    - Ruby On Rails (David Heinemeier Hansson aka DHH) - released in 2004
    - RSpec (David Chelimsky aka ??) - released in 2007
+      
+    (RoR)  (Ruby on Rails)
+    (PORO) (Plain Old Ruby Objects)
 ## Module 1 (10 minutes) (module-one/request-specs)
     - request specs
 
