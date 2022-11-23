@@ -18,7 +18,7 @@ The repository includes 3 branches for each module.
     - model specs
 
 ## Module 3 (20 minutes) (module-three/optimization)
-    - optimization using SOLID principles
+    - optimization using SOLID principles (Robert C. Martin aka Uncle Bob)
 
     - Single Responsibility Principle (SRP)
     - Open/Closed Principle (OCP)
