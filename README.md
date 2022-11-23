@@ -12,17 +12,3 @@ The repository includes 3 branches for each module.
     (PORO) (Plain Old Ruby Objects)
 ## Module 1 (10 minutes) (module-one/request-specs)
     - request specs
-
-## Module 2 (10 minutes) (module-two/model-specs)
-    - model specs
-
-## Module 3 (20 minutes) (module-three/optimization)
-    - optimization using SOLID principles (Robert C. Martin aka Uncle Bob)
-
-    - Single Responsibility Principle (SRP)
-    - Open/Closed Principle (OCP)
-    - Liskov Substitution Principle (LSP)
-    - Interface Segregation Principle (ISP)
-    - Dependency Inversion Principle (DIP)
-
-## Q&A (15 minutes)
