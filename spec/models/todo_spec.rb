@@ -16,7 +16,11 @@ RSpec.describe Todo, type: :model do
       end
     end
 
-    # context 'without flag' do 
-    # end
+    context 'without flag' do 
+      it 'includes completed todo' do
+        not_completed_todo = create(:todo, completed: false)
+        expect(described_class.completed).not_to include(not_completed_todo)
+      end
+    end
   end
 end
